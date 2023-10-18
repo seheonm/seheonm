@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello! I'm Marina Seheon. I am an Engineer and Biologist.
+---
+Welcome to my GitHub!
 
-<!--
-**seheonm/seheonm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### About Me
+---
+🧪 Research and Development Intern for Sandia National Laboratories
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Undergraduate Research Assistant for Dr. Christopher Johnston at the University of New Mexico
+
+👨‍💻 Studying Computer Science and Biology at The University of New Mexico (Expected graduation: May 2024)
+
+💼 Programming and Data Analysis: Java, C, Python, Golang/Go, VHDL, Assembly, R, MATLAB, Cadence, FPGA, Scheme, Haskell, and Microsoft Office
+
+
+### Connect with Me
+---
+📨 Connect with me at https://www.linkedin.com/in/marina-seheon/ or seheonmarina@gmail.com
