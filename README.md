@@ -9,7 +9,7 @@ Welcome to my GitHub! These projects are projects that I have worked on during m
 
 🎯 Undergraduate Research Assistant for Dr. Christopher Johnston at the University of New Mexico
 
-💻 Bachelor's Degree in Computer Science with a minor in Chemistry and  Bachelor's Degree in Biology at The University of New Mexico (Expected graduation: May 2024)
+💻 Bachelor's Degree in Computer Science with a minor in Chemistry and  Bachelor's Degree in Biology with Thesis at The University of New Mexico (Expected graduation: May 2024)
 
 💼 Programming and Data Analysis: Java, C, Python, Golang/Go, VHDL, Assembly, R, MATLAB, Cadence, FPGA, Scheme, Haskell, and Microsoft Office
 
