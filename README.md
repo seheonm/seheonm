@@ -3,7 +3,6 @@
 Welcome to my GitHub!
 
 
-
 ### About Me
 ---
 🧪 Research and Development Intern for Sandia National Laboratories
@@ -13,7 +12,6 @@ Welcome to my GitHub!
 👨‍💻 Studying Computer Science and Biology at The University of New Mexico (Expected graduation: May 2024)
 
 💼 Programming and Data Analysis: Java, C, Python, Golang/Go, VHDL, Assembly, R, MATLAB, Cadence, FPGA, Scheme, Haskell, and Microsoft Office
-
 
 
 ### Connect with Me
