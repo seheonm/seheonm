@@ -13,7 +13,7 @@ Welcome to my GitHub! These projects are projects that I have worked on during m
 
 💼 Programming and Data Analysis: Java, C, Python, Golang/Go, VHDL, Assembly, R, MATLAB, Cadence, FPGA, Scheme, Haskell, and Microsoft Office
 
-🗣️ English and Arabic
+🗣️ English and Arabic 
 
 
 ### Connect with Me
