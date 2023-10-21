@@ -1,4 +1,4 @@
-### Hello! I'm Marina Seheon. I am an Engineer and Biologist.
+### Hello! I'm Marina Seheon, an Engineer and Biologist.
 ---
 Welcome to my GitHub! These projects are projects that I have worked on during my education.
 
