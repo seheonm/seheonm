@@ -11,9 +11,9 @@ Welcome to my GitHub! These projects are projects that I have worked on during m
 
 🎓 University of New Mexico, August 2020 - May 2024
 
-   Bachelor's Degree in Computer Science with a minor in Chemistry
+   💻 Bachelor's Degree in Computer Science with a minor in Chemistry
 
-   Bachelor's Degree in Biology with a Thesis and Honors
+   🧬 Bachelor's Degree in Biology with a Thesis and Honors
 
 💼 Programming and Data Analysis: Java, C, Python, Golang/Go, VHDL, Assembly, R, MATLAB, Cadence, FPGA, Scheme, Haskell, and Microsoft Office
 
