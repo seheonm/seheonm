@@ -9,7 +9,7 @@ Welcome to my GitHub! These projects are projects that I have worked on during m
 
 🎯 Undergraduate Research Assistant for Dr. Christopher Johnston at the University of New Mexico
 
-University of New Mexico, August 2020 - May 2024 🎓
+- University of New Mexico, August 2020 - May 2024 🎓
 
    💻 Bachelor's Degree in Computer Science with a minor in Chemistry
 
