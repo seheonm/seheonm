@@ -5,7 +5,7 @@ Welcome to my GitHub! These are some of the projects I have worked on.
 
 ### About Me
 ---
-📚 Eduction: 
+📚 Eduction
 - University of New Mexico, August 2020 - May 2024 🎓
 
    💻 Bachelor's Degree in Computer Science with a minor in Chemistry
