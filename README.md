@@ -23,4 +23,4 @@ Welcome to my GitHub! These are some of the projects I have worked on.
 
 ### Connect with Me
 ---
-📨 Connect with me at https://www.linkedin.com/in/marina-seheon/ or seheonmarina@gmail.com
+📨 Connect with me at https://www.linkedin.com/in/marina-seheon/
