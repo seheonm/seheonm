@@ -16,7 +16,7 @@ Welcome to my GitHub! These are some of the projects I have worked on.
 
 🎯 Undergraduate Research Assistant for Dr. Christopher Johnston at the University of New Mexico
 
-💼 Programming and Data Analysis: Java, C, Python, Golang/Go, VHDL, Assembly, R, MATLAB, Cadence, FPGA, Scheme, Haskell, and Microsoft Office
+💼 Programming and Data Analysis: Java, C, Python, C++, Golang/Go, FPGA, VHDL, Assembly, R, MATLAB, Cadence, FPGA, Scheme, Haskell, and Microsoft Office
 
 🗣️ English and Arabic 
 
