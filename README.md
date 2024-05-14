@@ -1,4 +1,4 @@
-### Hello! I'm Marina Seheon, an Engineer and Biologist.
+### Hello! I'm Marina Seheon, a Medical Student and Engineer.
 ---
 Welcome to my GitHub! These are some of the projects I have worked on.
 
@@ -6,21 +6,23 @@ Welcome to my GitHub! These are some of the projects I have worked on.
 ### About Me
 ---
 📚 Eduction
-- University of New Mexico, August 2020 - May 2024 🎓
+- Lake Erie College of Osteopathic Medicine, August 2024 - May 2028 🩺
+  
+   🥼 Doctor of Osteopathic Medicine
+
+- University of New Mexico, August 2020 - May 2024, Summa Cum Laude 🎓
 
    💻 Bachelor's Degree in Computer Science with a minor in Chemistry
 
-   🧬 Bachelor's Degree in Biology with a Thesis and Honors
+   🧬 Bachelor's Degree in Biology with a Thesis
 
 🧪 Research and Development Intern for Sandia National Laboratories
 
-🎯 Undergraduate Research Assistant for Dr. Christopher Johnston at the University of New Mexico
-
-💼 Programming and Data Analysis: Java, C, Python, C++, Golang/Go, FPGA, VHDL, Assembly, R, MATLAB, Cadence, FPGA, Scheme, Haskell, and Microsoft Office
+💼 Programming and Data Analysis: Java, C, C#, C++, HTML/CSS, Python, Golang, VHDL, Assembly, R, MATLAB, SQL, Haskell, and Microsoft Tools
 
 🗣️ English and Arabic 
 
 
-### Connect with Me
+### Get in Touch
 ---
 📨 Connect with me at https://www.linkedin.com/in/marina-seheon/
