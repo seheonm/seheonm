@@ -16,8 +16,6 @@ Welcome to my GitHub! These are some of the projects I have worked on.
 
    🧬 Bachelor's Degree in Biology with a Thesis
 
-🧪 Research and Development Intern for Sandia National Laboratories
-
 💼 Programming and Data Analysis: Java, C, C#, C++, HTML/CSS, Python, Golang, VHDL, Assembly, R, MATLAB, SQL, Haskell, and Microsoft Tools
 
 🗣️ English and Arabic 
