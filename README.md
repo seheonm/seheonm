@@ -16,7 +16,7 @@ Welcome to my GitHub! These are some of the projects I have worked on.
 
    🧬 Bachelor's Degree in Biology with a Thesis
 
-  - Highland High School, August 2016 - May 2020, Valedictorian 🏫
+- Highland High School, August 2016 - May 2020, Valedictorian 🏫
   
    📙 High School Diploma
 
