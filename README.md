@@ -1,4 +1,4 @@
-### Hello! I'm Marina Seheon, a Medical Student and Engineer.
+### Hello! I'm Marina Seheon, a Student Doctor and Engineer.
 ---
 Welcome to my GitHub! These are some of the projects I have worked on.
 
