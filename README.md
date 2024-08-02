@@ -8,7 +8,7 @@ Welcome to my GitHub! These are some of the projects I have worked on.
 📚 Eduction
 - Lake Erie College of Osteopathic Medicine, August 2024 - May 2028 🩺
   
-   🥼 Doctor of Osteopathic Medicine
+   🥼 Doctor of Osteopathic Medicine ⚕️
 
 - University of New Mexico, August 2020 - May 2024, Summa Cum Laude 🎓
 
